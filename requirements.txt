@@ -1,5 +1,9 @@
+streamlit==1.29.0
+altair==4.2.2
 pandas
-prophet
+numpy
+matplotlib
 scikit-learn
 openpyxl
-streamlit
+prophet==1.1.5
+cmdstanpy
